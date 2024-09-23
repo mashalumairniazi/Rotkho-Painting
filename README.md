@@ -1,6 +1,6 @@
 # Project 2.1: Rothko Painting - Responsive Web Design (FCC)
 
-##### This repository contains the completed code for Project 2.1, demonstrating how to recreate an abstract painting in the style of Mark Rothko using HTML and CSS.
+##### This repository contains the completed code for Project 2.1 in the FreeCodeCamp "Responsive Web Design" course. 
 
 This project shows how to use CSS properties like `background-color`, `box-shadow`, and `filter` to create an abstract design using simple div elements, emulating the style of a Rothko painting.
 
