@@ -45,3 +45,18 @@ The **Rothko Painting** project is a minimalist representation of abstract expre
    git clone https://github.com/your-username/rothko-painting.git
 2. Ensure both the index.html and styles.css files are in the same directory.
 3. Open the index.html file in a web browser to view the project.
+
+## Learning Objectives
+
+This project helps learners:
+- Understand how to create art using only CSS and HTML without images.
+- Explore the use of CSS properties like `background-color`, `box-shadow`, and `filter` to add visual effects.
+- Gain insight into layering and layout techniques for building visually complex designs with simple elements.
+
+## FreeCodeCamp Curriculum
+
+This project is a part of the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp.
+
+## License
+
+This project is licensed under the MIT License.
