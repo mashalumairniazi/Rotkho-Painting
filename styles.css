@@ -2,6 +2,7 @@
   width: 500px;
   height: 600px;
   background-color: #4d0f00;
+  overflow: hidden;
 }
 
 .frame {
@@ -11,3 +12,9 @@
   margin: 20px auto;
 }
 
+.one {
+  width: 425px;
+  height: 150px;
+  background-color: #efb762;
+  margin: 20px auto;
+}
