@@ -43,3 +43,5 @@ The **Rothko Painting** project is a minimalist representation of abstract expre
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/rothko-painting.git
+2. Ensure both the index.html and styles.css files are in the same directory.
+3. Open the index.html file in a web browser to view the project.
