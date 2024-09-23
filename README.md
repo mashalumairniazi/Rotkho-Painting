@@ -1,4 +1,4 @@
-# Project 2.1: Rothko Painting - CSS Art
+# Project 2.1: Rothko Painting - Responsive Web Design (FCC)
 
 ##### This repository contains the completed code for Project 2.1, demonstrating how to recreate an abstract painting in the style of Mark Rothko using HTML and CSS.
 
